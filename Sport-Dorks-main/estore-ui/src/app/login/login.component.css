@@ -1,0 +1,30 @@
+.username {
+    text-align: center;
+}
+
+.password {
+    text-align: center;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: green;
+}
+
+body {
+    background-color: aqua;
+}

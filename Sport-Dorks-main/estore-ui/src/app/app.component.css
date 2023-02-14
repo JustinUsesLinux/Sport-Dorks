@@ -1,0 +1,26 @@
+#navbar-self{
+  width: 100%
+}
+
+.name {
+  position: absolute;
+  right: 190px ;
+  color: rgb(19, 27, 24);
+}
+
+.logout{
+  position: absolute;
+  right:120px;
+}
+
+.cart{
+  position: absolute;
+  right: 90px;
+  font-size: xx-large;
+}
+
+.list{
+  position: absolute;
+  right: 10px;
+  font-size: large;
+}
